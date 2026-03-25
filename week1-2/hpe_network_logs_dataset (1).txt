@@ -1,0 +1,500 @@
+<191>Mar 12 10:00:00 sw-access-03 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:00:05 sw-core-01 OSPF: Neighbor with Router ID 192.168.29.30 changed state from FULL to DOWN
+<189>Mar 12 10:00:10 sw-access-02 SNMP: Authentication failure from 192.168.14.177
+<189>Mar 12 10:00:15 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.35.82 over UDP protocol
+<189>Mar 12 10:00:20 sw-core-02 OSPF: Neighbor with Router ID 192.168.48.145 changed state from FULL to DOWN
+<191>Mar 12 10:00:25 sw-access-01 PORT: port 1/0/20 changed state to down
+<190>Mar 12 10:00:30 sw-core-01 OSPF: Neighbor with Router ID 192.168.14.237 changed state from FULL to DOWN
+<191>Mar 12 10:00:35 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.12.241
+<189>Mar 12 10:00:40 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/1
+<189>Mar 12 10:00:45 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.38.113 over UDP protocol
+<190>Mar 12 10:00:50 sw-access-02 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:00:55 sw-access-02 PORT: port 1/0/21 changed state to up
+<191>Mar 12 10:01:00 sw-access-03 IDM: ACL error - invalid source VLAN index 15 - client 36:C1:7B:45:0F:65 - port 1/0/32
+<191>Mar 12 10:01:05 sw-access-01 SNMP: Authentication failure from 192.168.34.158
+<189>Mar 12 10:01:10 sw-access-02 PORT: port 1/0/48 changed state to down
+<189>Mar 12 10:01:15 sw-core-02 Manager: new Startup Config Seq Num = 200 by CLI
+<189>Mar 12 10:01:20 sw-access-03 OSPF: Neighbor with Router ID 192.168.32.56 moved to FULL state on interface vlan88
+<190>Mar 12 10:01:25 sw-access-03 SECURITY: possible port scan detected from IP 192.168.5.13
+<191>Mar 12 10:01:30 sw-access-02 OSPF: Neighbor with Router ID 192.168.1.37 changed state from FULL to DOWN
+<191>Mar 12 10:01:35 sw-core-01 IDM: ACL error - invalid source VLAN index 33 - client 22:FE:6C:D2:E1:3A - port 1/0/24
+<191>Mar 12 10:01:40 sw-core-02 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:01:45 sw-access-02 IDM: ACL error - invalid source VLAN index 56 - client FD:03:ED:6C:A5:01 - port 1/0/37
+<191>Mar 12 10:01:50 sw-access-03 SECURITY: MAC 79:93:AF:94:64:63 blocked due to security policy
+<190>Mar 12 10:01:55 sw-core-02 IDM: ACL error - invalid source VLAN index 20 - client F6:2B:29:05:6B:A0 - port 1/0/35
+<190>Mar 12 10:02:00 sw-core-01 Manager: new Startup Config Seq Num = 480 by CLI
+<189>Mar 12 10:02:05 sw-access-03 VLAN: VLAN 87 removed from port 1/0/10
+<189>Mar 12 10:02:10 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.31.49 over UDP protocol
+<190>Mar 12 10:02:15 sw-access-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.20.7
+<189>Mar 12 10:02:20 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.9.17
+<191>Mar 12 10:02:25 sw-access-03 VLAN: VLAN 64 added to port 1/0/35
+<191>Mar 12 10:02:30 sw-core-01 SECURITY: possible port scan detected from IP 192.168.39.109
+<189>Mar 12 10:02:35 sw-access-03 IDM: ACL error - invalid source VLAN index 45 - client B3:81:FC:AF:AB:69 - port 1/0/24
+<191>Mar 12 10:02:40 sw-core-02 SNMP: Authentication failure from 192.168.39.125
+<189>Mar 12 10:02:45 sw-access-02 SECURITY: MAC 65:30:CB:BA:3A:E5 blocked due to security policy
+<189>Mar 12 10:02:50 sw-access-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.26.18
+<190>Mar 12 10:02:55 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.10.10 over UDP protocol
+<191>Mar 12 10:03:00 sw-access-03 DHCP_SNOOP: DHCP binding added for MAC 52:B5:35:69:F4:C7 IP 192.168.37.161 on port 1/0/9
+<191>Mar 12 10:03:05 sw-access-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/43
+<191>Mar 12 10:03:10 sw-access-02 PORT: link status change on port 1/0/41
+<189>Mar 12 10:03:15 sw-access-03 OSPF: Neighbor with Router ID 192.168.5.113 moved to FULL state on interface vlan36
+<190>Mar 12 10:03:20 sw-core-01 PORT: port 1/0/22 changed state to down
+<189>Mar 12 10:03:25 sw-access-03 DHCP_SNOOP: Drop request from 10:BF:2B:19:5A:4A for DHCPv4-IP because max-binding limit reached on port 1/0/14
+<191>Mar 12 10:03:30 sw-access-01 VLAN: VLAN 99 removed from port 1/0/10
+<190>Mar 12 10:03:35 sw-core-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/32
+<189>Mar 12 10:03:40 sw-access-02 PORT: port 1/0/32 changed state to up
+<190>Mar 12 10:03:45 sw-access-01 VLAN: VLAN 58 removed from port 1/0/10
+<191>Mar 12 10:03:50 sw-core-01 SECURITY: possible port scan detected from IP 192.168.16.101
+<191>Mar 12 10:03:55 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.16.166 over UDP protocol
+<190>Mar 12 10:04:00 sw-access-01 SNMP: Authentication failure from 192.168.14.57
+<191>Mar 12 10:04:05 sw-core-02 IDM: ACL error - invalid source VLAN index 42 - client 6A:52:2F:DC:7C:C6 - port 1/0/16
+<191>Mar 12 10:04:10 sw-core-02 PORT: link status change on port 1/0/5
+<189>Mar 12 10:04:15 sw-core-01 PORT: link status change on port 1/0/42
+<190>Mar 12 10:04:20 sw-access-03 IDM: ACL error - invalid source VLAN index 60 - client 8D:A8:0C:73:1E:C2 - port 1/0/19
+<189>Mar 12 10:04:25 sw-access-02 Manager: new Startup Config Seq Num = 212 by CLI
+<189>Mar 12 10:04:30 sw-access-03 SNMP: Authentication failure from 192.168.10.128
+<190>Mar 12 10:04:35 sw-access-03 PORT: link status change on port 1/0/5
+<190>Mar 12 10:04:40 sw-access-01 Manager: new Startup Config Seq Num = 133 by CLI
+<189>Mar 12 10:04:45 sw-access-03 PORT: port 1/0/9 changed state to down
+<189>Mar 12 10:04:50 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.25.107 over UDP protocol
+<189>Mar 12 10:04:55 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.1.47
+<191>Mar 12 10:05:00 sw-access-02 DHCP_SNOOP: Drop request from CC:88:87:1A:61:1F for DHCPv4-IP because max-binding limit reached on port 1/0/13
+<189>Mar 12 10:05:05 sw-core-01 SECURITY: MAC 2E:81:B7:97:AB:7E blocked due to security policy
+<189>Mar 12 10:05:10 sw-access-01 PORT: port 1/0/14 changed state to up
+<191>Mar 12 10:05:15 sw-access-02 PORT: link status change on port 1/0/4
+<189>Mar 12 10:05:20 sw-core-02 Manager: new Startup Config Seq Num = 323 by CLI
+<190>Mar 12 10:05:25 sw-access-03 IDM: ACL error - invalid source VLAN index 47 - client EF:86:E5:00:67:E8 - port 1/0/10
+<189>Mar 12 10:05:30 sw-access-01 PORT: link status change on port 1/0/18
+<190>Mar 12 10:05:35 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.49.38 over UDP protocol
+<191>Mar 12 10:05:40 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.39.236 over UDP protocol
+<189>Mar 12 10:05:45 sw-access-03 VLAN: VLAN 45 added to port 1/0/44
+<189>Mar 12 10:05:50 sw-access-03 PORT: port 1/0/13 changed state to down
+<190>Mar 12 10:05:55 sw-core-02 VLAN: VLAN 87 added to port 1/0/41
+<191>Mar 12 10:06:00 sw-access-03 OSPF: Neighbor with Router ID 192.168.37.46 changed state from FULL to DOWN
+<191>Mar 12 10:06:05 sw-access-01 SNMP: Authentication failure from 192.168.49.180
+<191>Mar 12 10:06:10 sw-access-01 OSPF: Neighbor with Router ID 192.168.16.207 moved to FULL state on interface vlan35
+<189>Mar 12 10:06:15 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.41.27 over UDP protocol
+<191>Mar 12 10:06:20 sw-access-03 SNMP: Authentication failure from 192.168.13.193
+<191>Mar 12 10:06:25 sw-core-01 IDM: ACL error - invalid source VLAN index 98 - client A9:E6:71:73:26:22 - port 1/0/46
+<190>Mar 12 10:06:30 sw-core-02 VLAN: VLAN 78 added to port 1/0/3
+<190>Mar 12 10:06:35 sw-core-01 DHCP_SNOOP: DHCP binding added for MAC 4F:7B:17:3D:A6:87 IP 192.168.37.89 on port 1/0/1
+<189>Mar 12 10:06:40 sw-access-01 PORT: port 1/0/11 changed state to down
+<189>Mar 12 10:06:45 sw-access-03 IDM: ACL error - invalid source VLAN index 51 - client 81:30:32:00:FA:23 - port 1/0/12
+<189>Mar 12 10:06:50 sw-core-01 OSPF: Neighbor with Router ID 192.168.35.211 moved to FULL state on interface vlan93
+<189>Mar 12 10:06:55 sw-core-02 VLAN: VLAN 58 added to port 1/0/40
+<189>Mar 12 10:07:00 sw-core-02 OSPF: Neighbor with Router ID 192.168.3.219 moved to FULL state on interface vlan68
+<189>Mar 12 10:07:05 sw-core-01 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:07:10 sw-access-01 SNMP: Authentication failure from 192.168.13.190
+<189>Mar 12 10:07:15 sw-access-02 VLAN: VLAN 26 added to port 1/0/45
+<190>Mar 12 10:07:20 sw-access-03 SNMP: Authentication failure from 192.168.32.48
+<191>Mar 12 10:07:25 sw-core-02 IDM: ACL error - invalid source VLAN index 96 - client 4C:9D:EB:FA:87:D7 - port 1/0/46
+<189>Mar 12 10:07:30 sw-core-02 PORT: port 1/0/10 changed state to down
+<189>Mar 12 10:07:35 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/37
+<190>Mar 12 10:07:40 sw-core-02 OSPF: Neighbor with Router ID 192.168.38.210 changed state from FULL to DOWN
+<191>Mar 12 10:07:45 sw-core-02 Manager: new Startup Config Seq Num = 270 by CLI
+<190>Mar 12 10:07:50 sw-core-02 VLAN: VLAN 37 removed from port 1/0/43
+<189>Mar 12 10:07:55 sw-access-02 SNMP: Authentication failure from 192.168.13.103
+<190>Mar 12 10:08:00 sw-core-01 IDM: ACL error - invalid source VLAN index 79 - client A2:8B:E9:33:4C:93 - port 1/0/8
+<190>Mar 12 10:08:05 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.10.233
+<190>Mar 12 10:08:10 sw-core-01 OSPF: Neighbor with Router ID 192.168.28.201 moved to FULL state on interface vlan58
+<191>Mar 12 10:08:15 sw-core-01 VLAN: VLAN 32 added to port 1/0/10
+<190>Mar 12 10:08:20 sw-core-02 PORT: port 1/0/9 changed state to down
+<189>Mar 12 10:08:25 sw-access-01 DHCP_SNOOP: DHCP binding added for MAC 71:4A:16:07:CD:6B IP 192.168.1.28 on port 1/0/43
+<191>Mar 12 10:08:30 sw-core-02 PORT: port 1/0/28 changed state to down
+<189>Mar 12 10:08:35 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.43.138 over UDP protocol
+<189>Mar 12 10:08:40 sw-core-01 VLAN: VLAN 72 removed from port 1/0/8
+<191>Mar 12 10:08:45 sw-core-02 PORT: port 1/0/18 changed state to down
+<191>Mar 12 10:08:50 sw-access-03 PORT: port 1/0/32 changed state to up
+<190>Mar 12 10:08:55 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.31.91 over UDP protocol
+<190>Mar 12 10:09:00 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.37.46
+<190>Mar 12 10:09:05 sw-core-01 IDM: ACL error - invalid source VLAN index 49 - client F0:7D:9C:F6:2D:8D - port 1/0/4
+<190>Mar 12 10:09:10 sw-access-01 VLAN: VLAN 36 added to port 1/0/31
+<190>Mar 12 10:09:15 sw-access-01 SECURITY: possible port scan detected from IP 192.168.34.192
+<191>Mar 12 10:09:20 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.29.147 over UDP protocol
+<190>Mar 12 10:09:25 sw-core-02 OSPF: Neighbor with Router ID 192.168.10.241 moved to FULL state on interface vlan35
+<190>Mar 12 10:09:30 sw-access-03 SNMP: Authentication failure from 192.168.3.198
+<191>Mar 12 10:09:35 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.44.25 over UDP protocol
+<189>Mar 12 10:09:40 sw-core-02 IDM: ACL error - invalid source VLAN index 26 - client AC:B1:60:9B:35:AE - port 1/0/12
+<189>Mar 12 10:09:45 sw-access-03 VLAN: VLAN 67 removed from port 1/0/8
+<190>Mar 12 10:09:50 sw-core-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.40.31
+<189>Mar 12 10:09:55 sw-core-02 IDM: ACL error - invalid source VLAN index 68 - client 58:E5:98:AC:01:01 - port 1/0/46
+<191>Mar 12 10:10:00 sw-access-02 DHCP_SNOOP: DHCP binding added for MAC D4:27:E6:3C:13:8C IP 192.168.9.26 on port 1/0/22
+<191>Mar 12 10:10:05 sw-access-03 Manager: new Startup Config Seq Num = 464 by CLI
+<191>Mar 12 10:10:10 sw-access-01 VLAN: VLAN 15 added to port 1/0/8
+<189>Mar 12 10:10:15 sw-access-02 PORT: port 1/0/36 changed state to up
+<191>Mar 12 10:10:20 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.38.64 over UDP protocol
+<190>Mar 12 10:10:25 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:10:30 sw-access-01 SNMP: Authentication failure from 192.168.25.139
+<191>Mar 12 10:10:35 sw-access-01 SECURITY: MAC 04:F1:A6:15:C5:46 blocked due to security policy
+<190>Mar 12 10:10:40 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.12.53 over UDP protocol
+<191>Mar 12 10:10:45 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:10:50 sw-access-03 SECURITY: possible port scan detected from IP 192.168.19.97
+<189>Mar 12 10:10:55 sw-core-01 SECURITY: MAC 2D:5F:C9:07:05:8D blocked due to security policy
+<189>Mar 12 10:11:00 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.2.170 over UDP protocol
+<189>Mar 12 10:11:05 sw-access-02 OSPF: Neighbor with Router ID 192.168.26.146 changed state from FULL to DOWN
+<190>Mar 12 10:11:10 sw-access-03 SNMP: Authentication failure from 192.168.41.197
+<189>Mar 12 10:11:15 sw-core-01 VLAN: VLAN 83 removed from port 1/0/11
+<191>Mar 12 10:11:20 sw-core-02 SNMP: Authentication failure from 192.168.42.142
+<191>Mar 12 10:11:25 sw-core-02 SECURITY: possible port scan detected from IP 192.168.20.11
+<189>Mar 12 10:11:30 sw-core-02 DHCP_SNOOP: Drop request from BB:64:83:FD:1E:FA for DHCPv4-IP because max-binding limit reached on port 1/0/35
+<191>Mar 12 10:11:35 sw-core-02 DHCP_SNOOP: Drop request from 53:15:D7:28:B7:80 for DHCPv4-IP because max-binding limit reached on port 1/0/47
+<190>Mar 12 10:11:40 sw-access-02 IDM: ACL error - invalid source VLAN index 100 - client 0F:B7:D4:61:DB:56 - port 1/0/8
+<190>Mar 12 10:11:45 sw-access-03 SECURITY: MAC FC:DB:59:60:52:AC blocked due to security policy
+<191>Mar 12 10:11:50 sw-core-02 PORT: port 1/0/26 changed state to down
+<189>Mar 12 10:11:55 sw-access-01 SNMP: Authentication failure from 192.168.32.78
+<189>Mar 12 10:12:00 sw-access-01 OSPF: Neighbor with Router ID 192.168.5.4 changed state from FULL to DOWN
+<189>Mar 12 10:12:05 sw-access-01 VLAN: VLAN 1 added to port 1/0/11
+<189>Mar 12 10:12:10 sw-core-01 VLAN: VLAN 53 removed from port 1/0/44
+<189>Mar 12 10:12:15 sw-core-01 SECURITY: MAC CB:71:E0:E3:CB:FF blocked due to security policy
+<189>Mar 12 10:12:20 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.38.111 over UDP protocol
+<189>Mar 12 10:12:25 sw-core-01 OSPF: Neighbor with Router ID 192.168.21.96 changed state from FULL to DOWN
+<190>Mar 12 10:12:30 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.6.247 over UDP protocol
+<191>Mar 12 10:12:35 sw-core-01 Manager: new Startup Config Seq Num = 121 by CLI
+<191>Mar 12 10:12:40 sw-core-02 SECURITY: MAC 54:55:4D:D2:AB:0A blocked due to security policy
+<191>Mar 12 10:12:45 sw-access-01 SNMP: Authentication failure from 192.168.21.231
+<190>Mar 12 10:12:50 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.38.219 over UDP protocol
+<189>Mar 12 10:12:55 sw-core-02 IDM: ACL error - invalid source VLAN index 35 - client 0B:97:CB:4B:20:99 - port 1/0/19
+<189>Mar 12 10:13:00 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.1.235 over UDP protocol
+<191>Mar 12 10:13:05 sw-core-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.49.85
+<189>Mar 12 10:13:10 sw-access-03 VLAN: VLAN 40 removed from port 1/0/47
+<191>Mar 12 10:13:15 sw-core-01 PORT: port 1/0/30 changed state to up
+<190>Mar 12 10:13:20 sw-access-03 OSPF: Neighbor with Router ID 192.168.10.96 moved to FULL state on interface vlan50
+<190>Mar 12 10:13:25 sw-access-01 OSPF: Neighbor with Router ID 192.168.37.124 changed state from FULL to DOWN
+<190>Mar 12 10:13:30 sw-access-02 SNMP: Authentication failure from 192.168.49.233
+<191>Mar 12 10:13:35 sw-access-03 DHCP_SNOOP: Drop request from 4D:EA:E8:9A:D1:9F for DHCPv4-IP because max-binding limit reached on port 1/0/45
+<190>Mar 12 10:13:40 sw-core-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/30
+<191>Mar 12 10:13:45 sw-access-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/1
+<191>Mar 12 10:13:50 sw-access-03 IDM: ACL error - invalid source VLAN index 69 - client 3A:E8:82:A2:E1:34 - port 1/0/34
+<190>Mar 12 10:13:55 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.19.205 over UDP protocol
+<190>Mar 12 10:14:00 sw-access-02 SNMP: Authentication failure from 192.168.19.215
+<190>Mar 12 10:14:05 sw-access-02 VLAN: VLAN 55 added to port 1/0/43
+<190>Mar 12 10:14:10 sw-access-02 IDM: ACL error - invalid source VLAN index 76 - client D0:90:92:5E:95:AF - port 1/0/14
+<189>Mar 12 10:14:15 sw-access-02 VLAN: VLAN 45 removed from port 1/0/28
+<191>Mar 12 10:14:20 sw-access-03 IDM: ACL error - invalid source VLAN index 63 - client C0:8A:08:A9:AA:C5 - port 1/0/22
+<191>Mar 12 10:14:25 sw-core-02 DHCP_SNOOP: Drop request from 4C:E0:6A:0A:CA:53 for DHCPv4-IP because max-binding limit reached on port 1/0/6
+<189>Mar 12 10:14:30 sw-access-01 OSPF: Neighbor with Router ID 192.168.8.145 moved to FULL state on interface vlan56
+<190>Mar 12 10:14:35 sw-access-03 IDM: ACL error - invalid source VLAN index 13 - client 7F:0E:AA:38:DD:29 - port 1/0/5
+<190>Mar 12 10:14:40 sw-access-01 SNMP: Authentication failure from 192.168.26.71
+<190>Mar 12 10:14:45 sw-access-02 SNMP: Authentication failure from 192.168.31.226
+<189>Mar 12 10:14:50 sw-access-01 SECURITY: MAC F2:FA:75:E6:67:79 blocked due to security policy
+<189>Mar 12 10:14:55 sw-core-01 DHCP_SNOOP: DHCP binding added for MAC B4:F5:3F:FB:23:E1 IP 192.168.39.131 on port 1/0/45
+<190>Mar 12 10:15:00 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/39
+<191>Mar 12 10:15:05 sw-core-02 VLAN: VLAN 29 removed from port 1/0/32
+<191>Mar 12 10:15:10 sw-access-02 IDM: ACL error - invalid source VLAN index 76 - client 1B:C8:BF:47:51:E5 - port 1/0/45
+<191>Mar 12 10:15:15 sw-core-02 PORT: link status change on port 1/0/47
+<191>Mar 12 10:15:20 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.26.199 over UDP protocol
+<191>Mar 12 10:15:25 sw-core-01 OSPF: Neighbor with Router ID 192.168.34.133 changed state from FULL to DOWN
+<190>Mar 12 10:15:30 sw-access-01 IDM: ACL error - invalid source VLAN index 37 - client FB:96:4A:51:3E:94 - port 1/0/22
+<189>Mar 12 10:15:35 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.28.144
+<191>Mar 12 10:15:40 sw-access-01 SNMP: Authentication failure from 192.168.39.126
+<191>Mar 12 10:15:45 sw-core-02 VLAN: VLAN 12 added to port 1/0/13
+<190>Mar 12 10:15:50 sw-access-02 OSPF: Neighbor with Router ID 192.168.12.1 moved to FULL state on interface vlan41
+<190>Mar 12 10:15:55 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.38.225
+<189>Mar 12 10:16:00 sw-access-01 DHCP_SNOOP: Drop request from 07:A6:3D:39:C6:C2 for DHCPv4-IP because max-binding limit reached on port 1/0/10
+<191>Mar 12 10:16:05 sw-access-02 OSPF: Neighbor with Router ID 192.168.8.178 changed state from FULL to DOWN
+<190>Mar 12 10:16:10 sw-access-01 PORT: port 1/0/4 changed state to up
+<189>Mar 12 10:16:15 sw-access-03 PORT: port 1/0/9 changed state to up
+<191>Mar 12 10:16:20 sw-access-01 VLAN: VLAN 32 added to port 1/0/14
+<191>Mar 12 10:16:25 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.35.162 over UDP protocol
+<191>Mar 12 10:16:30 sw-core-01 SNMP: Authentication failure from 192.168.47.16
+<189>Mar 12 10:16:35 sw-access-01 OSPF: Neighbor with Router ID 192.168.37.220 moved to FULL state on interface vlan64
+<189>Mar 12 10:16:40 sw-core-01 SECURITY: possible port scan detected from IP 192.168.0.42
+<189>Mar 12 10:16:45 sw-access-02 VLAN: VLAN 95 removed from port 1/0/7
+<190>Mar 12 10:16:50 sw-access-03 SNMP: Authentication failure from 192.168.5.230
+<190>Mar 12 10:16:55 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.11.225 over UDP protocol
+<190>Mar 12 10:17:00 sw-core-02 IDM: ACL error - invalid source VLAN index 9 - client 49:B8:32:56:0B:40 - port 1/0/17
+<189>Mar 12 10:17:05 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.18.239 over UDP protocol
+<190>Mar 12 10:17:10 sw-core-01 PORT: link status change on port 1/0/10
+<189>Mar 12 10:17:15 sw-access-03 SNMP: Authentication failure from 192.168.33.120
+<189>Mar 12 10:17:20 sw-core-01 VLAN: VLAN 53 removed from port 1/0/44
+<191>Mar 12 10:17:25 sw-core-02 PORT: port 1/0/2 changed state to up
+<190>Mar 12 10:17:30 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.48.61 over UDP protocol
+<189>Mar 12 10:17:35 sw-core-01 PORT: link status change on port 1/0/34
+<190>Mar 12 10:17:40 sw-access-02 VLAN: VLAN 36 added to port 1/0/47
+<190>Mar 12 10:17:45 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.28.243 over UDP protocol
+<190>Mar 12 10:17:50 sw-access-01 VLAN: VLAN 59 added to port 1/0/11
+<191>Mar 12 10:17:55 sw-access-03 IDM: ACL error - invalid source VLAN index 67 - client 91:40:99:F4:4D:93 - port 1/0/25
+<190>Mar 12 10:18:00 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.29.98 over UDP protocol
+<189>Mar 12 10:18:05 sw-core-01 DHCP_SNOOP: DHCP binding added for MAC 2B:01:26:81:17:66 IP 192.168.18.62 on port 1/0/3
+<190>Mar 12 10:18:10 sw-core-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/48
+<191>Mar 12 10:18:15 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.25.66
+<189>Mar 12 10:18:20 sw-core-01 SNMP: Authentication failure from 192.168.21.194
+<190>Mar 12 10:18:25 sw-core-01 PORT: link status change on port 1/0/12
+<191>Mar 12 10:18:30 sw-core-01 VLAN: VLAN 63 removed from port 1/0/1
+<189>Mar 12 10:18:35 sw-core-01 VLAN: VLAN 97 added to port 1/0/24
+<191>Mar 12 10:18:40 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.24.179 over UDP protocol
+<189>Mar 12 10:18:45 sw-access-01 SECURITY: MAC A3:E5:B2:F6:13:AD blocked due to security policy
+<190>Mar 12 10:18:50 sw-access-01 PORT: port 1/0/7 changed state to down
+<189>Mar 12 10:18:55 sw-access-03 IDM: ACL error - invalid source VLAN index 47 - client 51:3B:B9:05:0D:75 - port 1/0/31
+<189>Mar 12 10:19:00 sw-access-03 OSPF: Neighbor with Router ID 192.168.29.128 moved to FULL state on interface vlan55
+<191>Mar 12 10:19:05 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/42
+<190>Mar 12 10:19:10 sw-access-01 SECURITY: possible port scan detected from IP 192.168.38.192
+<190>Mar 12 10:19:15 sw-access-03 OSPF: Neighbor with Router ID 192.168.42.248 changed state from FULL to DOWN
+<191>Mar 12 10:19:20 sw-access-02 OSPF: Neighbor with Router ID 192.168.13.247 changed state from FULL to DOWN
+<189>Mar 12 10:19:25 sw-core-01 OSPF: Neighbor with Router ID 192.168.40.129 moved to FULL state on interface vlan4
+<190>Mar 12 10:19:30 sw-core-02 PORT: link status change on port 1/0/21
+<189>Mar 12 10:19:35 sw-access-03 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:19:40 sw-access-02 PORT: link status change on port 1/0/1
+<189>Mar 12 10:19:45 sw-access-01 PORT: port 1/0/38 changed state to down
+<191>Mar 12 10:19:50 sw-core-02 PORT: link status change on port 1/0/43
+<189>Mar 12 10:19:55 sw-core-01 SECURITY: possible port scan detected from IP 192.168.6.175
+<189>Mar 12 10:20:00 sw-access-02 PORT: port 1/0/40 changed state to down
+<189>Mar 12 10:20:05 sw-core-02 VLAN: VLAN 29 removed from port 1/0/24
+<189>Mar 12 10:20:10 sw-access-01 PORT: link status change on port 1/0/31
+<189>Mar 12 10:20:15 sw-core-02 IDM: ACL error - invalid source VLAN index 91 - client 34:7A:DB:08:D7:5D - port 1/0/47
+<191>Mar 12 10:20:20 sw-core-01 OSPF: Neighbor with Router ID 192.168.19.243 moved to FULL state on interface vlan91
+<189>Mar 12 10:20:25 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/13
+<191>Mar 12 10:20:30 sw-access-01 VLAN: VLAN 15 removed from port 1/0/41
+<190>Mar 12 10:20:35 sw-access-03 SNMP: Authentication failure from 192.168.48.78
+<191>Mar 12 10:20:40 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.36.101 over UDP protocol
+<191>Mar 12 10:20:45 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.47.145
+<191>Mar 12 10:20:50 sw-core-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/2
+<189>Mar 12 10:20:55 sw-core-01 IDM: ACL error - invalid source VLAN index 40 - client 9F:E8:0D:DE:C6:45 - port 1/0/2
+<190>Mar 12 10:21:00 sw-access-01 SECURITY: possible port scan detected from IP 192.168.33.116
+<191>Mar 12 10:21:05 sw-access-03 IDM: ACL error - invalid source VLAN index 44 - client 57:7A:10:79:6E:51 - port 1/0/46
+<189>Mar 12 10:21:10 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.15.38 over UDP protocol
+<190>Mar 12 10:21:15 sw-core-01 SNMP: Authentication failure from 192.168.42.142
+<189>Mar 12 10:21:20 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.46.206
+<189>Mar 12 10:21:25 sw-access-02 OSPF: Neighbor with Router ID 192.168.28.7 moved to FULL state on interface vlan17
+<190>Mar 12 10:21:30 sw-access-01 OSPF: Neighbor with Router ID 192.168.22.239 changed state from FULL to DOWN
+<191>Mar 12 10:21:35 sw-access-03 VLAN: VLAN 26 removed from port 1/0/1
+<189>Mar 12 10:21:40 sw-access-03 SECURITY: possible port scan detected from IP 192.168.22.43
+<189>Mar 12 10:21:45 sw-core-02 OSPF: Neighbor with Router ID 192.168.42.35 moved to FULL state on interface vlan22
+<191>Mar 12 10:21:50 sw-core-02 SECURITY: possible port scan detected from IP 192.168.33.127
+<189>Mar 12 10:21:55 sw-access-02 PORT: port 1/0/5 changed state to up
+<191>Mar 12 10:22:00 sw-core-01 IDM: ACL error - invalid source VLAN index 53 - client 53:DB:10:E6:9B:88 - port 1/0/7
+<191>Mar 12 10:22:05 sw-access-02 SNMP: Authentication failure from 192.168.37.53
+<190>Mar 12 10:22:10 sw-access-02 OSPF: Neighbor with Router ID 192.168.16.163 changed state from FULL to DOWN
+<191>Mar 12 10:22:15 sw-core-01 OSPF: Neighbor with Router ID 192.168.42.17 changed state from FULL to DOWN
+<189>Mar 12 10:22:20 sw-access-01 PORT: port 1/0/45 changed state to up
+<191>Mar 12 10:22:25 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.38.163 over UDP protocol
+<190>Mar 12 10:22:30 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.22.16
+<191>Mar 12 10:22:35 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.11.104 over UDP protocol
+<189>Mar 12 10:22:40 sw-core-01 SNMP: Authentication failure from 192.168.38.253
+<189>Mar 12 10:22:45 sw-core-02 IDM: ACL error - invalid source VLAN index 46 - client A3:36:9E:AD:E5:63 - port 1/0/35
+<190>Mar 12 10:22:50 sw-access-02 OSPF: Neighbor with Router ID 192.168.25.85 moved to FULL state on interface vlan67
+<189>Mar 12 10:22:55 sw-core-01 DHCP_SNOOP: Drop request from 28:C6:13:5B:32:D0 for DHCPv4-IP because max-binding limit reached on port 1/0/37
+<189>Mar 12 10:23:00 sw-access-02 IDM: ACL error - invalid source VLAN index 60 - client 81:47:FE:A5:BA:DA - port 1/0/9
+<189>Mar 12 10:23:05 sw-core-02 IDM: ACL error - invalid source VLAN index 31 - client C2:32:2E:41:12:08 - port 1/0/46
+<191>Mar 12 10:23:10 sw-core-02 IDM: ACL error - invalid source VLAN index 50 - client 59:3A:ED:6D:1F:46 - port 1/0/12
+<191>Mar 12 10:23:15 sw-access-01 SECURITY: possible port scan detected from IP 192.168.30.53
+<190>Mar 12 10:23:20 sw-access-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/41
+<189>Mar 12 10:23:25 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.50.81 over UDP protocol
+<191>Mar 12 10:23:30 sw-core-02 VLAN: VLAN 38 added to port 1/0/10
+<191>Mar 12 10:23:35 sw-access-03 VLAN: VLAN 54 removed from port 1/0/44
+<191>Mar 12 10:23:40 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.39.251 over UDP protocol
+<190>Mar 12 10:23:45 sw-access-01 SECURITY: possible port scan detected from IP 192.168.2.225
+<190>Mar 12 10:23:50 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.41.188 over UDP protocol
+<189>Mar 12 10:23:55 sw-core-02 SNMP: Authentication failure from 192.168.30.42
+<189>Mar 12 10:24:00 sw-access-02 IDM: ACL error - invalid source VLAN index 95 - client EF:F3:D7:11:AA:96 - port 1/0/19
+<190>Mar 12 10:24:05 sw-core-01 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:24:10 sw-access-03 SECURITY: MAC 26:01:AC:A9:CB:65 blocked due to security policy
+<190>Mar 12 10:24:15 sw-core-02 DHCP_SNOOP: Drop request from 1D:1C:68:3E:7A:34 for DHCPv4-IP because max-binding limit reached on port 1/0/12
+<190>Mar 12 10:24:20 sw-access-03 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/13
+<191>Mar 12 10:24:25 sw-core-01 OSPF: Neighbor with Router ID 192.168.32.235 moved to FULL state on interface vlan92
+<191>Mar 12 10:24:30 sw-access-03 DHCP_SNOOP: DHCP binding added for MAC D1:8F:3F:D6:C6:CB IP 192.168.19.218 on port 1/0/10
+<190>Mar 12 10:24:35 sw-core-02 VLAN: VLAN 62 removed from port 1/0/41
+<190>Mar 12 10:24:40 sw-core-02 SECURITY: possible port scan detected from IP 192.168.11.1
+<191>Mar 12 10:24:45 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.31.123 over UDP protocol
+<190>Mar 12 10:24:50 sw-access-03 IDM: ACL error - invalid source VLAN index 39 - client 69:F2:BF:1A:F5:54 - port 1/0/35
+<191>Mar 12 10:24:55 sw-access-03 SNMP: Authentication failure from 192.168.1.69
+<190>Mar 12 10:25:00 sw-access-03 VLAN: VLAN 50 added to port 1/0/4
+<191>Mar 12 10:25:05 sw-core-01 IDM: ACL error - invalid source VLAN index 89 - client AB:35:CD:3A:42:0E - port 1/0/2
+<191>Mar 12 10:25:10 sw-access-02 IDM: ACL error - invalid source VLAN index 75 - client CE:9E:80:75:11:9C - port 1/0/7
+<189>Mar 12 10:25:15 sw-access-02 VLAN: VLAN 76 removed from port 1/0/22
+<189>Mar 12 10:25:20 sw-access-02 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:25:25 sw-access-03 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:25:30 sw-core-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/46
+<189>Mar 12 10:25:35 sw-access-01 SECURITY: possible port scan detected from IP 192.168.23.102
+<189>Mar 12 10:25:40 sw-core-02 VLAN: VLAN 67 added to port 1/0/7
+<190>Mar 12 10:25:45 sw-access-01 OSPF: Neighbor with Router ID 192.168.10.223 moved to FULL state on interface vlan63
+<189>Mar 12 10:25:50 sw-core-02 VLAN: VLAN 17 added to port 1/0/21
+<191>Mar 12 10:25:55 sw-core-02 DHCP_SNOOP: DHCP binding added for MAC 52:F1:C3:02:51:60 IP 192.168.26.200 on port 1/0/47
+<189>Mar 12 10:26:00 sw-access-01 SNMP: Authentication failure from 192.168.17.85
+<190>Mar 12 10:26:05 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/31
+<191>Mar 12 10:26:10 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.0.34 over UDP protocol
+<191>Mar 12 10:26:15 sw-core-01 PORT: port 1/0/21 changed state to down
+<191>Mar 12 10:26:20 sw-access-03 VLAN: VLAN 78 added to port 1/0/30
+<191>Mar 12 10:26:25 sw-access-02 SECURITY: MAC D7:42:6E:EF:8C:E6 blocked due to security policy
+<189>Mar 12 10:26:30 sw-core-02 PORT: port 1/0/33 changed state to up
+<189>Mar 12 10:26:35 sw-access-02 SECURITY: MAC A7:BC:D2:38:4F:64 blocked due to security policy
+<191>Mar 12 10:26:40 sw-access-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.48.23
+<189>Mar 12 10:26:45 sw-core-02 SNMP: Authentication failure from 192.168.17.215
+<189>Mar 12 10:26:50 sw-access-03 OSPF: Neighbor with Router ID 192.168.41.88 moved to FULL state on interface vlan43
+<191>Mar 12 10:26:55 sw-access-01 OSPF: Neighbor with Router ID 192.168.30.89 changed state from FULL to DOWN
+<189>Mar 12 10:27:00 sw-access-03 SECURITY: MAC 56:B9:50:E9:90:DF blocked due to security policy
+<189>Mar 12 10:27:05 sw-core-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/3
+<189>Mar 12 10:27:10 sw-access-02 IDM: ACL error - invalid source VLAN index 10 - client 80:83:50:3B:25:D6 - port 1/0/43
+<190>Mar 12 10:27:15 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.16.198 over UDP protocol
+<190>Mar 12 10:27:20 sw-access-03 PORT: link status change on port 1/0/1
+<191>Mar 12 10:27:25 sw-access-03 IDM: ACL error - invalid source VLAN index 39 - client 2B:79:FB:6D:E5:E5 - port 1/0/24
+<190>Mar 12 10:27:30 sw-core-02 SECURITY: possible port scan detected from IP 192.168.22.179
+<190>Mar 12 10:27:35 sw-access-01 syslog: Information logging started on the SYSLOG server 192.168.30.30 over UDP protocol
+<189>Mar 12 10:27:40 sw-access-02 OSPF: Neighbor with Router ID 192.168.39.14 moved to FULL state on interface vlan19
+<191>Mar 12 10:27:45 sw-access-01 VLAN: VLAN 46 added to port 1/0/3
+<189>Mar 12 10:27:50 sw-access-02 OSPF: Neighbor with Router ID 192.168.9.215 changed state from FULL to DOWN
+<189>Mar 12 10:27:55 sw-access-01 PORT: link status change on port 1/0/23
+<191>Mar 12 10:28:00 sw-core-02 SNMP: Authentication failure from 192.168.38.166
+<190>Mar 12 10:28:05 sw-core-01 DHCP_SNOOP: Drop request from 64:B8:4C:58:4F:B2 for DHCPv4-IP because max-binding limit reached on port 1/0/30
+<189>Mar 12 10:28:10 sw-core-01 DHCP_SNOOP: DHCP binding added for MAC E9:1D:82:C8:5E:E0 IP 192.168.29.2 on port 1/0/4
+<189>Mar 12 10:28:15 sw-access-02 PORT: port 1/0/4 changed state to down
+<190>Mar 12 10:28:20 sw-core-01 DHCP_SNOOP: Drop request from 7F:11:D1:E2:CD:AE for DHCPv4-IP because max-binding limit reached on port 1/0/18
+<189>Mar 12 10:28:25 sw-access-03 SECURITY: MAC 4D:FB:93:D9:E1:04 blocked due to security policy
+<189>Mar 12 10:28:30 sw-access-03 SNMP: Authentication failure from 192.168.10.169
+<190>Mar 12 10:28:35 sw-core-01 VLAN: VLAN 73 removed from port 1/0/17
+<190>Mar 12 10:28:40 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.45.139 over UDP protocol
+<191>Mar 12 10:28:45 sw-access-03 SNMP: Authentication failure from 192.168.29.189
+<189>Mar 12 10:28:50 sw-access-03 SECURITY: MAC 7C:87:66:38:78:74 blocked due to security policy
+<189>Mar 12 10:28:55 sw-core-02 SNMP: Authentication failure from 192.168.11.207
+<191>Mar 12 10:29:00 sw-access-01 SNMP: Authentication failure from 192.168.13.236
+<189>Mar 12 10:29:05 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/15
+<189>Mar 12 10:29:10 sw-core-02 SNMP: Authentication failure from 192.168.24.132
+<189>Mar 12 10:29:15 sw-access-03 IDM: ACL error - invalid source VLAN index 49 - client 7E:FC:02:87:8E:23 - port 1/0/1
+<189>Mar 12 10:29:20 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:29:25 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.36.169 over UDP protocol
+<189>Mar 12 10:29:30 sw-core-01 DHCP_SNOOP: DHCP binding added for MAC C3:FA:71:E9:ED:61 IP 192.168.8.94 on port 1/0/14
+<191>Mar 12 10:29:35 sw-access-01 SNMP: Authentication failure from 192.168.41.75
+<190>Mar 12 10:29:40 sw-access-03 Manager: new Startup Config Seq Num = 283 by CLI
+<191>Mar 12 10:29:45 sw-access-02 OSPF: Neighbor with Router ID 192.168.18.32 changed state from FULL to DOWN
+<190>Mar 12 10:29:50 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.25.30 over UDP protocol
+<190>Mar 12 10:29:55 sw-core-02 VLAN: VLAN 15 removed from port 1/0/28
+<191>Mar 12 10:30:00 sw-core-02 PORT: link status change on port 1/0/24
+<191>Mar 12 10:30:05 sw-core-01 PORT: port 1/0/23 changed state to down
+<190>Mar 12 10:30:10 sw-access-01 OSPF: Neighbor with Router ID 192.168.3.230 moved to FULL state on interface vlan34
+<190>Mar 12 10:30:15 sw-core-01 SNMP: Authentication failure from 192.168.27.142
+<190>Mar 12 10:30:20 sw-access-01 OSPF: Neighbor with Router ID 192.168.43.213 changed state from FULL to DOWN
+<190>Mar 12 10:30:25 sw-core-01 PORT: port 1/0/9 changed state to up
+<189>Mar 12 10:30:30 sw-core-01 SECURITY: MAC 09:AF:30:29:94:66 blocked due to security policy
+<191>Mar 12 10:30:35 sw-access-02 SNMP: Authentication failure from 192.168.37.196
+<189>Mar 12 10:30:40 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.40.214 over UDP protocol
+<189>Mar 12 10:30:45 sw-access-03 DHCP_SNOOP: DHCP binding added for MAC 00:AB:CA:77:ED:68 IP 192.168.12.60 on port 1/0/23
+<190>Mar 12 10:30:50 sw-access-01 SNMP: Authentication failure from 192.168.29.19
+<189>Mar 12 10:30:55 sw-access-02 PORT: port 1/0/5 changed state to down
+<189>Mar 12 10:31:00 sw-access-02 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:31:05 sw-core-02 SNMP: Authentication failure from 192.168.2.232
+<189>Mar 12 10:31:10 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.25.213 over UDP protocol
+<191>Mar 12 10:31:15 sw-core-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.47.221
+<189>Mar 12 10:31:20 sw-core-01 VLAN: VLAN 34 added to port 1/0/8
+<190>Mar 12 10:31:25 sw-access-03 SNMP: Authentication failure from 192.168.35.182
+<189>Mar 12 10:31:30 sw-core-02 IDM: ACL error - invalid source VLAN index 25 - client C3:7C:69:92:0A:A6 - port 1/0/23
+<191>Mar 12 10:31:35 sw-access-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.10.99
+<189>Mar 12 10:31:40 sw-access-03 OSPF: Neighbor with Router ID 192.168.24.252 changed state from FULL to DOWN
+<189>Mar 12 10:31:45 sw-core-02 SNMP: Authentication failure from 192.168.37.74
+<191>Mar 12 10:31:50 sw-access-02 VLAN: VLAN 1 removed from port 1/0/17
+<191>Mar 12 10:31:55 sw-core-02 SNMP: Authentication failure from 192.168.15.181
+<190>Mar 12 10:32:00 sw-core-01 OSPF: Neighbor with Router ID 192.168.41.23 moved to FULL state on interface vlan86
+<189>Mar 12 10:32:05 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.39.90 over UDP protocol
+<189>Mar 12 10:32:10 sw-access-02 PORT: port 1/0/14 changed state to down
+<190>Mar 12 10:32:15 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.23.251 over UDP protocol
+<189>Mar 12 10:32:20 sw-access-03 SECURITY: possible port scan detected from IP 192.168.39.7
+<189>Mar 12 10:32:25 sw-core-01 IDM: ACL error - invalid source VLAN index 71 - client BD:CF:0D:63:CC:D7 - port 1/0/37
+<189>Mar 12 10:32:30 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.25.74 over UDP protocol
+<191>Mar 12 10:32:35 sw-access-01 SNMP: Authentication failure from 192.168.5.55
+<190>Mar 12 10:32:40 sw-access-02 Manager: new Startup Config Seq Num = 366 by CLI
+<189>Mar 12 10:32:45 sw-core-01 VLAN: VLAN 94 added to port 1/0/38
+<189>Mar 12 10:32:50 sw-access-03 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.33.178
+<190>Mar 12 10:32:55 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.6.8 over UDP protocol
+<189>Mar 12 10:33:00 sw-access-03 SECURITY: MAC FD:E1:54:0A:D8:20 blocked due to security policy
+<190>Mar 12 10:33:05 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.1.59 over UDP protocol
+<190>Mar 12 10:33:10 sw-access-02 SNMP: Authentication failure from 192.168.41.121
+<191>Mar 12 10:33:15 sw-access-03 syslog: Information logging started on the SYSLOG server 192.168.30.226 over UDP protocol
+<190>Mar 12 10:33:20 sw-access-03 IDM: ACL error - invalid source VLAN index 5 - client C4:48:96:31:C4:1F - port 1/0/30
+<190>Mar 12 10:33:25 sw-access-02 SECURITY: possible port scan detected from IP 192.168.17.34
+<191>Mar 12 10:33:30 sw-access-02 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.20.164
+<189>Mar 12 10:33:35 sw-access-02 PORT: port 1/0/11 changed state to down
+<189>Mar 12 10:33:40 sw-access-03 OSPF: Neighbor with Router ID 192.168.28.48 changed state from FULL to DOWN
+<189>Mar 12 10:33:45 sw-core-01 SECURITY: MAC FC:9E:CB:F1:33:BD blocked due to security policy
+<191>Mar 12 10:33:50 sw-core-01 PORT: port 1/0/6 changed state to up
+<191>Mar 12 10:33:55 sw-access-02 SECURITY: MAC D8:E4:96:AB:E1:5F blocked due to security policy
+<189>Mar 12 10:34:00 sw-access-02 DHCP_SNOOP: Drop request from 4D:9C:8A:EF:DE:65 for DHCPv4-IP because max-binding limit reached on port 1/0/34
+<189>Mar 12 10:34:05 sw-access-01 OSPF: Neighbor with Router ID 192.168.19.99 changed state from FULL to DOWN
+<191>Mar 12 10:34:10 sw-access-02 SECURITY: possible port scan detected from IP 192.168.23.33
+<190>Mar 12 10:34:15 sw-core-01 DHCP_SNOOP: Drop request from 2C:2E:0A:AF:A5:52 for DHCPv4-IP because max-binding limit reached on port 1/0/13
+<189>Mar 12 10:34:20 sw-access-03 SECURITY: MAC 0E:51:24:8E:8D:CE blocked due to security policy
+<189>Mar 12 10:34:25 sw-access-02 OSPF: Neighbor with Router ID 192.168.47.118 changed state from FULL to DOWN
+<189>Mar 12 10:34:30 sw-core-02 SECURITY: possible port scan detected from IP 192.168.28.56
+<189>Mar 12 10:34:35 sw-core-02 DHCP_SNOOP: DHCP binding added for MAC C9:60:06:54:0F:E1 IP 192.168.8.10 on port 1/0/20
+<190>Mar 12 10:34:40 sw-access-02 PORT: port 1/0/32 changed state to down
+<191>Mar 12 10:34:45 sw-core-02 syslog: Information logging started on the SYSLOG server 192.168.14.193 over UDP protocol
+<191>Mar 12 10:34:50 sw-core-01 VLAN: VLAN 70 removed from port 1/0/4
+<190>Mar 12 10:34:55 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/41
+<190>Mar 12 10:35:00 sw-access-02 SNMP: Authentication failure from 192.168.36.38
+<191>Mar 12 10:35:05 sw-access-02 DHCP_SNOOP: Drop request from E4:A6:9C:1F:15:FB for DHCPv4-IP because max-binding limit reached on port 1/0/15
+<190>Mar 12 10:35:10 sw-core-01 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/24
+<191>Mar 12 10:35:15 sw-access-02 SECURITY: possible port scan detected from IP 192.168.41.97
+<191>Mar 12 10:35:20 sw-access-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.5.87
+<190>Mar 12 10:35:25 sw-access-02 PORT: port 1/0/40 changed state to up
+<191>Mar 12 10:35:30 sw-access-03 VLAN: VLAN 65 removed from port 1/0/33
+<191>Mar 12 10:35:35 sw-access-03 DHCP_SNOOP: Drop request from 3F:CD:98:54:9E:79 for DHCPv4-IP because max-binding limit reached on port 1/0/1
+<190>Mar 12 10:35:40 sw-core-01 DHCP_SNOOP: Drop request from FE:C7:98:F7:B2:85 for DHCPv4-IP because max-binding limit reached on port 1/0/16
+<191>Mar 12 10:35:45 sw-access-01 OSPF: Neighbor with Router ID 192.168.16.204 moved to FULL state on interface vlan84
+<191>Mar 12 10:35:50 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.8.135 over UDP protocol
+<189>Mar 12 10:35:55 sw-core-01 IDM: ACL error - invalid source VLAN index 42 - client 67:D3:B4:98:C5:C8 - port 1/0/47
+<191>Mar 12 10:36:00 sw-access-03 OSPF: Neighbor with Router ID 192.168.46.1 moved to FULL state on interface vlan42
+<191>Mar 12 10:36:05 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.43.32 over UDP protocol
+<191>Mar 12 10:36:10 sw-core-02 SECURITY: MAC DD:78:FC:52:49:57 blocked due to security policy
+<191>Mar 12 10:36:15 sw-access-03 SNMP: Authentication failure from 192.168.48.52
+<190>Mar 12 10:36:20 sw-core-02 SNMP: Authentication failure from 192.168.7.240
+<191>Mar 12 10:36:25 sw-core-01 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:36:30 sw-core-02 IDM: ACL error - invalid source VLAN index 54 - client 12:47:73:9B:3B:9B - port 1/0/35
+<189>Mar 12 10:36:35 sw-access-02 VLAN: VLAN 85 removed from port 1/0/46
+<189>Mar 12 10:36:40 sw-core-02 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:36:45 sw-access-03 VLAN: VLAN 63 added to port 1/0/33
+<189>Mar 12 10:36:50 sw-access-02 SECURITY: possible port scan detected from IP 192.168.33.185
+<190>Mar 12 10:36:55 sw-access-03 OSPF: Neighbor with Router ID 192.168.8.162 changed state from FULL to DOWN
+<191>Mar 12 10:37:00 sw-core-01 PORT: port 1/0/17 changed state to up
+<189>Mar 12 10:37:05 sw-core-02 VLAN: VLAN 25 removed from port 1/0/23
+<191>Mar 12 10:37:10 sw-core-02 PORT: port 1/0/40 changed state to down
+<190>Mar 12 10:37:15 sw-core-02 Manager: Configuration saved to flash memory by user admin
+<191>Mar 12 10:37:20 sw-access-02 SNMP: Authentication failure from 192.168.7.59
+<190>Mar 12 10:37:25 sw-core-02 Manager: new Startup Config Seq Num = 471 by CLI
+<190>Mar 12 10:37:30 sw-core-01 SNMP: Authentication failure from 192.168.1.116
+<190>Mar 12 10:37:35 sw-core-02 IDM: ACL error - invalid source VLAN index 68 - client B0:45:81:6F:4D:10 - port 1/0/10
+<190>Mar 12 10:37:40 sw-access-01 IDM: ACL error - invalid source VLAN index 19 - client 97:8D:91:7C:09:48 - port 1/0/22
+<189>Mar 12 10:37:45 sw-access-03 VLAN: VLAN 82 removed from port 1/0/16
+<191>Mar 12 10:37:50 sw-access-02 Manager: new Startup Config Seq Num = 115 by CLI
+<191>Mar 12 10:37:55 sw-access-01 IDM: ACL error - invalid source VLAN index 94 - client CB:67:43:05:A0:13 - port 1/0/15
+<190>Mar 12 10:38:00 sw-access-02 DHCP_SNOOP: Drop DHCP packet from untrusted port 1/0/5
+<189>Mar 12 10:38:05 sw-core-01 syslog: Information logging started on the SYSLOG server 192.168.24.102 over UDP protocol
+<190>Mar 12 10:38:10 sw-core-02 VLAN: VLAN 64 removed from port 1/0/14
+<191>Mar 12 10:38:15 sw-core-02 SECURITY: MAC 8D:04:A2:54:90:97 blocked due to security policy
+<191>Mar 12 10:38:20 sw-access-03 VLAN: VLAN 49 removed from port 1/0/16
+<189>Mar 12 10:38:25 sw-core-02 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:38:30 sw-core-01 VLAN: VLAN 54 added to port 1/0/40
+<191>Mar 12 10:38:35 sw-access-03 SNMP: Authentication failure from 192.168.15.128
+<190>Mar 12 10:38:40 sw-core-01 SECURITY: possible port scan detected from IP 192.168.50.176
+<189>Mar 12 10:38:45 sw-access-02 PORT: link status change on port 1/0/4
+<191>Mar 12 10:38:50 sw-access-03 OSPF: Neighbor with Router ID 192.168.11.187 changed state from FULL to DOWN
+<190>Mar 12 10:38:55 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:39:00 sw-access-02 IDM: ACL error - invalid source VLAN index 74 - client 21:46:F3:56:74:51 - port 1/0/33
+<190>Mar 12 10:39:05 sw-core-01 OSPF: Neighbor with Router ID 192.168.36.236 changed state from FULL to DOWN
+<189>Mar 12 10:39:10 sw-access-03 SNMP: Authentication failure from 192.168.13.180
+<191>Mar 12 10:39:15 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<189>Mar 12 10:39:20 sw-access-01 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:39:25 sw-core-02 VLAN: VLAN 76 removed from port 1/0/1
+<190>Mar 12 10:39:30 sw-core-02 VLAN: VLAN 38 removed from port 1/0/25
+<190>Mar 12 10:39:35 sw-access-01 Manager: new Startup Config Seq Num = 241 by CLI
+<190>Mar 12 10:39:40 sw-core-01 Manager: Configuration saved to flash memory by user admin
+<190>Mar 12 10:39:45 sw-access-01 PORT: port 1/0/26 changed state to up
+<191>Mar 12 10:39:50 sw-access-02 VLAN: VLAN 15 added to port 1/0/28
+<191>Mar 12 10:39:55 sw-core-02 VLAN: VLAN 19 removed from port 1/0/31
+<191>Mar 12 10:40:00 sw-core-02 OSPF: Neighbor with Router ID 192.168.34.85 changed state from FULL to DOWN
+<190>Mar 12 10:40:05 sw-access-02 SNMP: Authentication failure from 192.168.33.246
+<191>Mar 12 10:40:10 sw-core-01 OSPF: Neighbor with Router ID 192.168.21.107 moved to FULL state on interface vlan9
+<191>Mar 12 10:40:15 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.43.56 over UDP protocol
+<189>Mar 12 10:40:20 sw-core-02 PORT: port 1/0/18 changed state to up
+<189>Mar 12 10:40:25 sw-core-01 OSPF: Neighbor with Router ID 192.168.37.76 changed state from FULL to DOWN
+<191>Mar 12 10:40:30 sw-core-01 OSPF: Neighbor with Router ID 192.168.14.231 moved to FULL state on interface vlan30
+<190>Mar 12 10:40:35 sw-access-02 OSPF: Neighbor with Router ID 192.168.37.12 changed state from FULL to DOWN
+<189>Mar 12 10:40:40 sw-access-01 SECURITY: MAC 11:1D:9B:F2:E6:D9 blocked due to security policy
+<189>Mar 12 10:40:45 sw-access-01 Manager: User admin moved to manager mode for the SSH/TELNET session from IP address 192.168.13.97
+<189>Mar 12 10:40:50 sw-access-03 IDM: ACL error - invalid source VLAN index 47 - client B6:62:D4:93:27:EF - port 1/0/33
+<189>Mar 12 10:40:55 sw-access-02 PORT: port 1/0/3 changed state to down
+<189>Mar 12 10:41:00 sw-core-02 VLAN: VLAN 41 added to port 1/0/24
+<191>Mar 12 10:41:05 sw-access-02 syslog: Information logging started on the SYSLOG server 192.168.25.8 over UDP protocol
+<191>Mar 12 10:41:10 sw-core-01 Manager: new Startup Config Seq Num = 437 by CLI
+<189>Mar 12 10:41:15 sw-core-01 SNMP: Authentication failure from 192.168.32.110
+<190>Mar 12 10:41:20 sw-access-02 OSPF: Neighbor with Router ID 192.168.25.147 changed state from FULL to DOWN
+<191>Mar 12 10:41:25 sw-access-02 VLAN: VLAN 10 removed from port 1/0/26
+<189>Mar 12 10:41:30 sw-core-02 SECURITY: MAC 89:B7:90:18:3D:2A blocked due to security policy
+<190>Mar 12 10:41:35 sw-access-02 IDM: ACL error - invalid source VLAN index 43 - client 24:EF:72:17:2D:AE - port 1/0/7
