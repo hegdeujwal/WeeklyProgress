@@ -31,7 +31,23 @@
 
 ---
 
-## **CPP Meeting 2: 10/03/26**
+## **CPP Meeting - 3 : 17/03/26**
+
+### Discussion:
+
+- Multi-layered architecture: Designed pipeline from log ingestion to visualization.
+- Scoring logic: Created importance_score using event weight, frequency, and correlation.
+- Event weighting: Used rule-based method with log level as modifier.
+- Incident correlation: Grouped related logs into clusters based on time and component.
+
+### Contribution:
+
+- Based on mentors feedback schema was refactored and some elements were removed
+- Members researched on how to calculate weights for each log
+
+---
+
+## **CPP Meeting 4: 25/03/26**
 
 ### Discussion:
 
